@@ -7,5 +7,4 @@ if (numero <= 0.5){
   str = ' MENOR que 0,5';
 }
 
-//Test de cambios
 console.log('\n' + numero + str + '\n');
